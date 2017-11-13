@@ -13,3 +13,13 @@ function setBestCustomer() {
  bestCustomer= "maybe bob";
  return;
  }
+ const leastFavoriteCustomer="BigT";
+ function changeLeastFavoriteCustomer() {
+   leastFavoriteCustomer="bob";
+   return;
+ }
+ function attemptTwoFavoriteCustomers() {
+   let favoriteCustomer="bob";
+   let favoriteCustomer="bobby";
+   return;
+ }
