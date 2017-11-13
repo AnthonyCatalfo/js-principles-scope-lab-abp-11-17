@@ -1,5 +1,6 @@
 // Write your solution in this file!
 var customerName="bob"
+customerName
 function upperCaseCustomerName() {
 customerName=customerName.toUpperCase()
 return
@@ -12,4 +13,4 @@ function setBestCustomer() {
   bestCustomer= "BigT"
   return
   }
-  const 
+  const
